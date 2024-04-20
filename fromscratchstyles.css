@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f0f0; /* Custom background color */
+    font-family: Arial, sans-serif; /* Font family */
+    color: #333; /* Font color */
+}
+
+header {
+    background-color: lightblue;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
